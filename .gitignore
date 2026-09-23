@@ -10,10 +10,9 @@ node_modules
 components.d.ts
 auto-imports.d.ts
 .github/*-instructions.md
-.env
-.env.*
 electron-builder.env
 
 docs/*
 !docs/website/
 docs/website/.vitepress/cache/
+config.bat
